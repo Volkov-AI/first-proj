@@ -1,1 +1,4 @@
-"#test" 
+# First django project
+
+sdfsdf
+
